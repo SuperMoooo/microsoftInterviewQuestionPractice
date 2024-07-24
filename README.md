@@ -1,5 +1,5 @@
 # React - Microsoft Interview Question Practice
-## Live: 
+## Live: https://supermoooo.github.io/microsoftInterviewQuestionPractice/
 ### Problem: Build Country Capital Game
 ### Functional Requirements:
 Render the list of countries and capitals in the random order on the UI.
